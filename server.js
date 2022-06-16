@@ -246,7 +246,7 @@ server.use((req, res, next) => {
   next();
 });
 server.use(router);
-server.listen(4001, () => {});
+server.listen(process.env.PORT || 4000, () => {});
 
 //utils
 function getUserByCookie(req) {
