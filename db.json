@@ -1,40 +1,781 @@
 {
-  "posts": [
+  "songs": [
     {
       "id": 1,
-      "title": "1st post",
-      "datetime": "July 16, 2021 11:47:39 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      "poster": "https://popmellow.com/wp-content/uploads/2021/05/Top-20-Most-Popular-Singers-Right-Now.jpg",
+      "name": "The Lakes",
+      "artist": "Taylor Swift",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://ts5.tarafdari.com/contents/user678699/content-sound/2_cardigan.mp3"
     },
     {
       "id": 2,
-      "title": "Second post",
-      "datetime": "July 16, 2021 11:47:48 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
+      "poster": "https://www.liveabout.com/thmb/bybTPCpgvc8MQ5iBhZvzrF3iwiM=/1209x1043/filters:no_upscale():max_bytes(150000):strip_icc()/adele-25-56a96ce35f9b58b7d0fb52ea.jpg",
+      "name": "Hello",
+      "artist": "Adele",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://www.tarafdari.com/sites/default/files/contents/user713362/content-sound/adele_-_someone_like_you_live.mp3"
     },
     {
       "id": 3,
-      "title": "Number Three",
-      "datetime": "July 16, 2021 11:48:01 AM",
-      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      "poster": "https://popmellow.com/wp-content/uploads/2021/05/Top-Hottest-Female-Pop-Singers-right-now.jpg",
+      "name": "Bad Guy",
+      "artist": "Billie Eilish",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://ts4.tarafdari.com/contents/user660604/content-sound/billieeilish-badguy-320.mp3"
+    },
+    {
+      "id": 4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzliZDEwNjItYmVmZi00YzMwLWFkNTctYzZmMTRlMTY3NTJiXkEyXkFqcGdeQXVyNTk1ODg5ODA@._V1_.jpg",
+      "name": "The Heart Wants What It Wants",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.baarzesh.net/music/2020/11/Selena_Gomez_The_Heart_Wants_What_It_Wants_128.mp3"
+    },
+    {
+      "id": 5,
+      "poster": "https://aniportalimages.s3.amazonaws.com/media/details/katy_15.jpg",
+      "name": "E.T",
+      "artist": "Katy Perry",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://ts2.tarafdari.com/contents/user300836/content-sound/chained_to_the_rhythm_-_katy_perry_ft_skip_marley.mp3"
     },
     {
       "id": 6,
-      "title": "How to become rich",
-      "datetime": "April 16, 2022 2:56:06 AM",
-      "body": "Stop dreaming - this is the truth you have to believe"
+      "poster": "https://coverartarchive.org/release/a2e8bf36-999a-480c-a466-ec5396c0f299/28272961875.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.digital-musics.xyz/singers/selena-gomez/Selena%20Gomez%20%E2%80%93%20Rare%20(2020)/01.%20Rare.mp3"
+    },
+    {
+      "id": 7,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/05/still-jj.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir//Music/Still-jj.mp3"
     },
     {
       "id": 8,
-      "title": "how to get visa to Afghanistan",
-      "datetime": "April 16, 2022 2:58:59 AM",
-      "body": "lorem ipsum dolor sit amet"
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/04/love.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/Jaymes%20Young%20-%20Infinity.mp3"
     },
     {
       "id": 9,
-      "title": "Hello!",
-      "datetime": "April 16, 2022 3:00:38 AM",
-      "body": "Hello World!"
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/03/Regard.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/Regard-Ride_it-128.mp3"
+    },
+    {
+      "id": 10,
+      "poster": "",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir//Music/Still-jj.mp3"
+    },
+    {
+      "id": 11,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/03/superlife.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/Superlife.mp3"
+    },
+    {
+      "id": 12,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/03/TO-THE-MOON.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/TO%20THE%20MOON.mp3"
+    },
+    {
+      "id": 13,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/02/alina-gerc.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/Alina%20Gerc%20-%20Hello%20In%20All%20Different%20Language.mp3"
+    },
+    {
+      "id": 14,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/02/Hey-Mama-David-Guetta-Nicki-Minaj.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/David%20Guetta%20-%20Hey%20Mama.mp3"
+    },
+    {
+      "id": 15,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/02/Boom-Clap-1.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/Charli%20XCX.mp3"
+    },
+    {
+      "id": 16,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/02/abc.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/abcdef.mp3"
+    },
+    {
+      "id": 17,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/02/love.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/Love%20Nwantiti.mp3"
+    },
+    {
+      "id": 18,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2022/01/serena-safari.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/Serena-Safari.mp3"
+    },
+    {
+      "id": 19,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2021/12/talking-to-the-moon.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/Music/Talking%20To%20The%20Moon%20Bruno%20Mars%20R.mp3"
+    },
+    {
+      "id": 20,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2021/09/ab67616d0000b27303edd4729c197648cf9cf586.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/wp-content/uploads/2021/09/Mike%20Perry%20ft%20Isak%20Danielson-Save%20Me%20Now%20(128).mp3"
+    },
+    {
+      "id": 21,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2021/05/masked_wolf.png",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/wp-content/uploads/2021/05/Masked%20Wolf-Astronaut%20in%20the%20Ocean%20(320).mp3"
+    },
+    {
+      "id": 22,
+      "poster": "https://lavamusic.ir/wp-content/uploads/2021/09/ARCADIALAN.jpg",
+      "name": "The Fox",
+      "artist": "Selena Gomez",
+      "album": "The Fox",
+      "duration": "3:00",
+      "file": "https://dl.lavamusic.ir/wp-content/uploads/2021/09/Lana%20Del%20Rey-Arcadia%20(128).mp3"
+    },
+    {
+      "id": 23,
+      "poster": "https://www.prestoimages.net/store30/rd227/227_pd3856386_1.jpg",
+      "name": "How",
+      "artist": "Ella Mai",
+      "album": "Ella Mai Album",
+      "duration": "3:00",
+      "file": "https://dl.mp3lyric.us/Musics/E/ELLA-MAI/How%20-%20ELLA%20MAI%20ft%20RODDY%20RICCH.mp3"
+    },
+    {
+      "id": 24,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89PTVK-YsYeBu6FQDYzjEXnGl0BcnHh4foC3cUIhWGDQN1Nlqjgj7VbljZdwaiyeyzQ0&usqp=CAU",
+      "name": "Style",
+      "artist": "Taylor swift",
+      "album": "1989",
+      "duration": "4:00",
+      "file": "http://dl.vblogit.ir/swift/Taylor%20Swift%20-%201989/03%20Style.mp3"
+    },
+    {
+      "id": 25,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89PTVK-YsYeBu6FQDYzjEXnGl0BcnHh4foC3cUIhWGDQN1Nlqjgj7VbljZdwaiyeyzQ0&usqp=CAU",
+      "name": "Out of the woods",
+      "artist": "Taylor swift",
+      "album": "1989",
+      "duration": "4:00",
+      "file": "http://dl.vblogit.ir/swift/Taylor%20Swift%20-%201989/04%20Out%20of%20the%20Woods.mp3"
+    },
+    {
+      "id": 26,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89PTVK-YsYeBu6FQDYzjEXnGl0BcnHh4foC3cUIhWGDQN1Nlqjgj7VbljZdwaiyeyzQ0&usqp=CAU",
+      "name": "Shake it off",
+      "artist": "Taylor swift",
+      "album": "1989",
+      "duration": "4:00",
+      "file": "http://dl.vblogit.ir/swift/Taylor%20Swift%20-%201989/06%20Shake%20It%20Off.mp3"
+    },
+    {
+      "id": 27,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89PTVK-YsYeBu6FQDYzjEXnGl0BcnHh4foC3cUIhWGDQN1Nlqjgj7VbljZdwaiyeyzQ0&usqp=CAU",
+      "name": "Bad Blood",
+      "artist": "Taylor swift",
+      "album": "1989",
+      "duration": "4:00",
+      "file": "http://dl.vblogit.ir/swift/Taylor%20Swift%20-%201989/Bad%20Blood%20-%20TAYLOR%20SWIFT.mp3"
+    },
+    {
+      "id": 28,
+      "poster": "https://upload.wikimedia.org/wikipedia/fa/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png",
+      "name": "Formulation",
+      "artist": "beyonce",
+      "album": "lemonade",
+      "duration": "4:00",
+      "file": "https://dl.sirendl.xyz/free//Foreign/Music/Hip-Hop/Beyonce/Album/Lemonade/12%20Formation.mp3"
+    },
+    {
+      "id": 29,
+      "poster": "https://upload.wikimedia.org/wikipedia/fa/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png",
+      "name": "6 Inch (feat The Weeknd)",
+      "artist": "beyonce",
+      "album": "lemonade",
+      "duration": "4:00",
+      "file": "https://dl.sirendl.xyz/free//Foreign/Music/Hip-Hop/Beyonce/Album/Lemonade/05%206%20Inch%20(feat.%20The%20Weeknd).mp3"
+    },
+    {
+      "id": 30,
+      "poster": "https://upload.wikimedia.org/wikipedia/fa/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png",
+      "name": "Sorry",
+      "artist": "beyonce",
+      "album": "lemonade",
+      "duration": "4:00",
+      "file": "https://dl.sirendl.xyz/free//Foreign/Music/Hip-Hop/Beyonce/Album/Lemonade/13%20Sorry%20(Original%20Demo).mp3"
+    },
+    {
+      "id": 31,
+      "poster": "https://upload.wikimedia.org/wikipedia/fa/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png",
+      "name": "Sorry",
+      "artist": "beyonce",
+      "album": "lemonade",
+      "duration": "4:00",
+      "file": "https://dl.sirendl.xyz/free//Foreign/Music/Hip-Hop/Beyonce/Album/Lemonade/13%20Sorry%20(Original%20Demo).mp3"
+    },
+    {
+      "id": 32,
+      "poster": "https://upload.wikimedia.org/wikipedia/fa/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png",
+      "name": "Daddy lesson",
+      "artist": "beyonce",
+      "album": "lemonade",
+      "duration": "4:00",
+      "file": "https://dl.sirendl.xyz/free//Foreign/Music/Hip-Hop/Beyonce/Album/Lemonade/06%20Daddy%20Lessons.mp3"
+    },
+    {
+      "id": 33,
+      "poster": "https://upload.wikimedia.org/wikipedia/fa/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png",
+      "name": "6 Inch (feat The Weeknd)",
+      "artist": "beyonce",
+      "album": "lemonade",
+      "duration": "4:00",
+      "file": "https://dl.sirendl.xyz/free//Foreign/Music/Hip-Hop/Beyonce/Album/Lemonade/05%206%20Inch%20(feat.%20The%20Weeknd).mp3"
+    }
+  ],
+  "favoriteSongs": [
+    {
+      "userId": 2,
+      "songId": 5
+    },
+    {
+      "userId": 2,
+      "songId": 1
+    },
+    {
+      "userId": 2,
+      "songId": 2
+    },
+    {
+      "userId": 2,
+      "songId": 6
+    },
+    {
+      "userId": 3,
+      "songId": 2
+    },
+    {
+      "userId": 3,
+      "songId": 1
+    },
+    {
+      "userId": 3,
+      "songId": 6
+    },
+    {
+      "userId": 1,
+      "songId": 6
+    },
+    {
+      "userId": 1,
+      "songId": 3
+    },
+    {
+      "userId": 1,
+      "songId": 7
+    },
+    {
+      "userId": 1,
+      "songId": 16
+    },
+    {
+      "userId": 1,
+      "songId": 9
+    },
+    {
+      "userId": 1,
+      "songId": 8
+    },
+    {
+      "userId": 1,
+      "songId": 11
+    },
+    {
+      "userId": 1,
+      "songId": 14
+    },
+    {
+      "userId": 1,
+      "songId": 18
+    },
+    {
+      "userId": 1,
+      "songId": 15
+    },
+    {
+      "userId": 1,
+      "songId": 19
+    },
+    {
+      "userId": 1,
+      "songId": 13
+    },
+    {
+      "userId": 1,
+      "songId": 12
+    },
+    {
+      "userId": 1,
+      "songId": 20
+    },
+    {
+      "userId": 1,
+      "songId": 21
+    },
+    {
+      "userId": 1,
+      "songId": 22
+    },
+    {
+      "userId": 1,
+      "songId": 23
+    },
+    {
+      "userId": 1,
+      "songId": 2
+    },
+    {
+      "userId": 1,
+      "songId": 4
+    },
+    {
+      "userId": 1,
+      "songId": 17
+    }
+  ],
+  "albums": [
+    {
+      "id": 11,
+      "name": "1989",
+      "likes": 1000,
+      "visits": 50000,
+      "cover": "https://wallpapercave.com/wp/wp2242263.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Lemonade",
+      "likes": 400,
+      "visits": 100,
+      "cover": "https://upload.wikimedia.org/wikipedia/fa/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png"
+    },
+    {
+      "id": 7,
+      "name": "The Fox",
+      "likes": 0,
+      "visits": 8,
+      "cover": "https://upload.wikimedia.org/wikipedia/fa/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png"
+    },
+    {
+      "id": 9,
+      "name": "The Fox",
+      "likes": 5,
+      "visits": 0,
+      "cover": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Fox",
+      "likes": 4,
+      "visits": 0,
+      "cover": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 10,
+      "name": "The Fox",
+      "likes": 2,
+      "visits": 0,
+      "cover": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Fox",
+      "likes": 0,
+      "visits": 0,
+      "cover": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Fox",
+      "likes": 0,
+      "visits": 0,
+      "cover": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 4,
+      "name": "The Fox",
+      "likes": 0,
+      "visits": 0,
+      "cover": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Fox",
+      "likes": 0,
+      "visits": 0,
+      "cover": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 6,
+      "name": "The Fox",
+      "likes": 0,
+      "visits": 0,
+      "cover": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    }
+  ],
+  "album_song": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "songId": 28
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "songId": 29
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "songId": 30
+    },
+    {
+      "id": 4,
+      "albumId": 1,
+      "songId": 31
+    },
+    {
+      "id": 5,
+      "albumId": 1,
+      "songId": 32
+    },
+    {
+      "id": 6,
+      "albumId": 1,
+      "songId": 33
+    },
+    {
+      "id": 7,
+      "albumId": 11,
+      "songId": 24
+    },
+    {
+      "id": 7,
+      "albumId": 11,
+      "songId": 25
+    },
+    {
+      "id": 7,
+      "albumId": 11,
+      "songId": 26
+    },
+    {
+      "id": 7,
+      "albumId": 11,
+      "songId": 27
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Selena Gomez",
+      "image": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Taylor Swift",
+      "image": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Billie Eilish",
+      "image": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ariana Grande",
+      "image": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Adele",
+      "image": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ed Sheeran",
+      "image": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Charlie Puth",
+      "image": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Zayn",
+      "image": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc"
+    }
+  ],
+  "album_artist": [
+    {
+      "id": 1,
+      "album_id": 1,
+      "artist_id": 1
+    },
+    {
+      "id": 2,
+      "album_id": 2,
+      "artist_id": 2
+    },
+    {
+      "id": 3,
+      "album_id": 3,
+      "artist_id": 3
+    },
+    {
+      "id": 4,
+      "album_id": 4,
+      "artist_id": 4
+    },
+    {
+      "id": 5,
+      "album_id": 5,
+      "artist_id": 5
+    },
+    {
+      "id": 6,
+      "album_id": 6,
+      "artist_id": 6
+    },
+    {
+      "id": 7,
+      "album_id": 7,
+      "artist_id": 7
+    },
+    {
+      "id": 8,
+      "album_id": 8,
+      "artist_id": 8
+    },
+    {
+      "id": 9,
+      "album_id": 9,
+      "artist_id": 9
+    },
+    {
+      "id": 10,
+      "album_id": 10,
+      "artist_id": 10
+    },
+    {
+      "id": 11,
+      "album_id": 11,
+      "artist_id": 11
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Pop"
+    },
+    {
+      "id": 2,
+      "name": "Rock"
+    },
+    {
+      "id": 3,
+      "name": "Jazz"
+    },
+    {
+      "id": 4,
+      "name": "Disco"
+    },
+    {
+      "id": 5,
+      "name": "System"
+    },
+    {
+      "id": 6,
+      "name": "Hard Metal"
+    },
+    {
+      "id": 7,
+      "name": "Metal"
+    },
+    {
+      "id": 8,
+      "name": "Country"
+    }
+  ],
+  "users": [
+    {
+      "email": "eri@g.com",
+      "password": "$2a$10$zDHBa3LW699pVSrF38H1..0i7bs3lEWgxz9pnYWlEvnGwvMw92FJe",
+      "name": "dani",
+      "lastName": "madmolil",
+      "id": 1
+    },
+    {
+      "email": "daniyal.madmolil@gmail.com",
+      "password": "$2a$10$wBf.VF0xaO4g3KNCefxDCu9scTzFycErcuce5auTAsUo/u9CKb06C",
+      "name": "dani",
+      "lastName": "madmolil",
+      "id": 2
+    },
+    {
+      "email": "user3@gmail.com",
+      "password": "$2a$10$Gg1XCGPkukuULZ9nbS..YekeajeaqcRb8kVsiPA/Ui.7w1z2csJNO",
+      "name": "user3",
+      "lastName": "user",
+      "id": 3
+    }
+  ],
+  "user_playlist": [
+    {
+      "userId": 1,
+      "playlistId": 5,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "playlistId": 6,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "playlistId": 8,
+      "id": 8
+    }
+  ],
+  "playlist_song": [
+    {
+      "playlistId": 5,
+      "songId": 7,
+      "id": 33
+    },
+    {
+      "playlistId": 5,
+      "songId": 6,
+      "id": 34
+    },
+    {
+      "playlistId": 6,
+      "songId": 27,
+      "id": 35
+    },
+    {
+      "playlistId": 6,
+      "songId": 26,
+      "id": 36
+    },
+    {
+      "playlistId": 6,
+      "songId": 25,
+      "id": 37
+    },
+    {
+      "playlistId": 6,
+      "songId": 24,
+      "id": 38
+    },
+    {
+      "playlistId": 6,
+      "songId": 5,
+      "id": 39
+    },
+    {
+      "playlistId": 8,
+      "songId": 8,
+      "id": 43
+    },
+    {
+      "playlistId": 8,
+      "songId": 13,
+      "id": 44
+    },
+    {
+      "playlistId": 8,
+      "songId": 15,
+      "id": 45
+    }
+  ],
+  "playlists": [
+    {
+      "name": "k",
+      "id": 5
+    },
+    {
+      "name": "abcdef",
+      "id": 6
+    },
+    {
+      "name": "favorites",
+      "id": 8
     }
   ]
 }

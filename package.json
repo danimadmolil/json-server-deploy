@@ -12,6 +12,10 @@
   "author": "Jesper Orb",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "@danimadmolil/json-server-auth": "^2.1.9",
+    "cookie-parser": "^1.4.6",
+    "fs": "^0.0.1-security",
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1"
   }
 }
